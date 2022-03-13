@@ -1,0 +1,19 @@
+.App {
+  padding: 20px;
+}
+.upper-container {
+  background-color: black;
+  height: 600px;
+}
+
+.navbar {
+  padding: 10px;
+}
+
+.lower-container {
+  display: flex;
+  align-content: space-around;
+  align-items: center;
+  gap: 5px;
+
+}
